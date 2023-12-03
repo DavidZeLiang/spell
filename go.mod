@@ -1,4 +1,4 @@
-module github.com/eskriett/spell
+module github.com/DavidZeLiang/spell
 
 go 1.17
 
