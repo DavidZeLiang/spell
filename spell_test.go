@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/eskriett/spell"
+	"github.com/DavidZeLiang/spell"
 	"github.com/eskriett/strmet"
 )
 
